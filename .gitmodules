@@ -1,3 +1,1 @@
-[submodule "nvim/lua/user"]
-	path = .config/nvim/lua/user
-	url = git@github.com:patricorgi/myastronvim_config.git
+
